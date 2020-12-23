@@ -1,6 +1,6 @@
 
 <h1 align = 'center'> Завдання для заліку(7 варіант) </h1>
 <h2>Умова</h2>
-<p>Загрузити файл с веб-сервера і відобразити його перші 11 рядків<br>
-https://raw.githubusercontent.com/xpams/UIView-Blur/master/README.md)</p>
+<p>Загрузити файл с веб-сервера і відобразити його перші 11 рядків</p>
+[Мой сайт](http://webdesign.ru.net)
 
