@@ -4,7 +4,7 @@
 <p>Загрузити файл с веб-сервера і відобразити його перші 11 рядків</p>
 https://raw.githubusercontent.com/xpams/UIView-Blur/master/README.md
 <h2>Результати завдання</h2>
-file:///home/bohdan/Pictures/Screenshot%20from%202020-12-23%2015-54-05.png
+<p><img src="file:///home/bohdan/Pictures/Screenshot%20from%202020-12-23%2015-54-05.png" alt="Виведення в терміналі"></p>
 
 
 
