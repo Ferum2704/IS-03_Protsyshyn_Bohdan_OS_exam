@@ -4,7 +4,7 @@
 <p>Написати bash-скрипт, який буде загружати файл с веб-сервера і відображувати його перші 11 рядків</p>
 https://raw.githubusercontent.com/xpams/UIView-Blur/master/README.md
 <h2><i>Результати завдання<</i>/h2>
-<p><img src="https://imgur.com/xOsrH3j" alt="Виведення в терміналі"></p>
+[Imgur](https://imgur.com/xOsrH3j)
 <p><i>Весь загружений файл</i></p>
 <p><img src="https://imgur.com/8FAqhqs" alt="Файл"></p>
 
