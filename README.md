@@ -1,10 +1,12 @@
 
 <h1 align = 'center'> Завдання для заліку(7 варіант) </h1>
 <h2><i>Умова</i></h2>
-<p>Загрузити файл с веб-сервера і відобразити його перші 11 рядків</p>
+<p>Написати bash-скрипт, який буде загружати файл с веб-сервера і відображувати його перші 11 рядків</p>
 https://raw.githubusercontent.com/xpams/UIView-Blur/master/README.md
-<h2>Результати завдання</h2>
-<p><img src="file:///home/bohdan/Pictures/Screenshot%20from%202020-12-23%2015-54-05.png" alt="Виведення в терміналі"></p>
+<h2><i>Результати завдання<</i>/h2>
+<p><img src="https://imgur.com/xOsrH3j" alt="Виведення в терміналі"></p>
+<p><i>Весь загружений файл</i></p>
+<p><img src="https://imgur.com/8FAqhqs" alt="Файл"></p>
 
 
 
