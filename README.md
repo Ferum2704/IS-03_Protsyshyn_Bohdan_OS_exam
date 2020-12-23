@@ -1,3 +1,6 @@
 
-<h1 align = 'center'> Умова </h1>
+<h1 align = 'center'> Завдання для заліку(7 варіант) </h1>
+##***Умова***
+Загрузити файл с веб-сервера і відобразити його перші 11 рядків
+https://raw.githubusercontent.com/xpams/UIView-Blur/master/README.md)
 
